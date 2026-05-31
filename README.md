@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Milan!
 
-<!--
-**magnussonmilan/magnussonmilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance & Data student at the University of Utah, passionate about building products at the intersection of technology and real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Apps & Projects:
+
+- [Idioma – AI Language Learning iOS App](https://github.com/magnussonmilan/Idioma-ios)
+
+---
+
+## 🛠️ Skills & Tools:
+
+**Languages & Frameworks:**
+- Swift / SwiftUI (iOS 15.0+)
+- TypeScript / Node.js
+- Python
+
+**Data & Operations:**
+- CIN7 Inventory Management
+- QuickBooks
+- Excel / Financial Modeling
+
+**Cloud & Backend:**
+- Firebase (Firestore, Cloud Functions, Auth)
+- OpenAI API
+- SSE Streaming Architecture
+
+---
+
+## 💼 Experience:
+
+**Operations & Data Analyst Intern — Advance Carts**
+Managed 500+ SKU inventory, reconciled 50–100 invoices daily, and resolved cross-platform data mismatches across inventory and accounting systems.
+
+**Co-Founder & Developer — Idioma**
+Built a full-stack AI-powered iOS app from scratch — SwiftUI frontend, Firebase serverless backend, OpenAI integration, and real-time SSE streaming.
+
+---
+
+## 🏆 Achievements:
+
+- 🌍 **Highest Mark in the World** — Cambridge A Level Global Perspectives & Research (2021), top 1 in 10,000 candidates globally
+
+---
+
+## 🔗 Connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/magnussonmilan)
