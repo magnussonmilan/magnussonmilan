@@ -7,6 +7,7 @@ Finance & Data student at the University of Utah, passionate about building prod
 ## 📱 Apps & Projects:
 
 - [Idioma – AI Language Learning iOS App](https://github.com/magnussonmilan/Idioma-ios)
+- [IR Hub (401K.AI) – AI Investor Relations Dashboard](https://github.com/magnussonmilan/ir-hub)
 
 ---
 
